@@ -6,7 +6,7 @@ I'm a Computer Engineering student in Purwanchal Campus (ERC)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Rubi Dahal](https://www.linkedin.com/in/rubi-dahal-10b55a31a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rubi-dahal-10b55a31a/))
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrubidahal7@gmail.com) 
 
 # 💻 Tech Stack:
