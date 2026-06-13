@@ -17,6 +17,6 @@ I'm a Computer Engineering student in Purwanchal Campus (ERC)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rubi-dahal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rubi-dahal&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
