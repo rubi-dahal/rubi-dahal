@@ -11,9 +11,10 @@ Computer Engineering student at **Purwanchal Campus (ERC)**, passionate about bu
 
 <br>
 
-### 🛠️ Tech Stack
+
 
 <div align="center">
+### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -31,13 +32,10 @@ Computer Engineering student at **Purwanchal Campus (ERC)**, passionate about bu
 
 <br>
 
-### 📊 GitHub Stats
+
 
 <div align="center">
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rubi-dahal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubi-dahal&theme=dark&hide_border=true&layout=compact" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=rubi-dahal&theme=dark&hide_border=true" />
-
+<a href="https://github-readme-stats.vercel.app/api?username=rubi-dahal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=rubi-dahal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rubi-dahal&theme=dark&hide_border=true&layout=compact" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubi-dahal&theme=dark&hide_border=true&layout=compact" height="165"/> </a> <img src="https://streak-stats.demolab.com/?user=rubi-dahal&theme=dark&hide_border=true" /> </div>
 </div>
